@@ -5,5 +5,4 @@ import android.app.Fragment;
 public class StartMenuFragment extends Fragment {
 
 
-
 }
