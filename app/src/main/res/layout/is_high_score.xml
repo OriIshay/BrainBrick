@@ -9,6 +9,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="High Score"
         android:id="@+id/textView"
+        android:background="#00f"
         android:layout_gravity="center_horizontal"
         android:textSize="50dp" />
 </LinearLayout>
